@@ -1,0 +1,11 @@
+{
+  "development": {
+    "android_emulator": "http://10.0.2.2:8000/api/v1",
+    "ios_simulator": "http://127.0.0.1:8000/api/v1",
+    "web": "http://localhost:8000/api/v1",
+    "desktop": "http://127.0.0.1:8000/api/v1"
+  },
+  "production": {
+    "api_base_url": "https://api.your-domain.example/api/v1"
+  }
+}
